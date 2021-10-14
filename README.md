@@ -1,5 +1,7 @@
-# Evaluation of the effects of air pollution on spontaneous pneumothorax
-* Evaluating the effects of air pollution on spontaneous pneumothorax using Distributed lag non-linear models(DLNMs) with R
+# Evaluation of the effects of air pollution on pneumothorax
+* Evaluating the effects of air pollution on pneumothorax using Distributed lag non-linear models(DLNMs) with R
+  + spontaneous pneumothorax
+  + secondary pneumothorax
 * [Introduction to the DLNM](https://be-favorite.tistory.com/80)
 * [Tutorials on DLNMs with R](https://be-favorite.github.io/Multiple_timeseries/DLNMs/Tutorials_DLNMs.html)
 * Get meteorological factors and air pollution concentration data in South Korea here
