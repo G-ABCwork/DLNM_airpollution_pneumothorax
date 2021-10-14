@@ -12,13 +12,13 @@
 * Example of the analysis results
 
 <p align="center"> 
-  <img src = "./Plot_example/Example1.jpeg">
+  <img src = "./plot_example/Example1.jpeg">
 </p>
 
 <p align="center"> 
-  <img src = "./Plot_example/Example2.jpeg">
+  <img src = "./plot_example/Example2.jpeg">
 </p>
 
 <p align="center"> 
-  <img src = "./Plot_example/Example3.jpeg">
+  <img src = "./plot_example/Example3.jpeg">
 </p>
