@@ -8,7 +8,7 @@
 * Only R and Rmd code will be provided
 * [Ongoing] 2021. 06 -
 * Example of the analysis results
-* 
+
 <p align="center"> 
   <img src = "./Plot_example/Example1.jpeg">
 </p>
