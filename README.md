@@ -9,6 +9,7 @@
 * Get Korean holiday information data here
 * Unfortunately, Due to business security, data cannot be provided
 * Only R and Rmd code will be provided
+* I'll open the R code after publishing the paper
 * [Ongoing] 2021. 06 -
 * Example of the analysis results
 
