@@ -11,7 +11,7 @@
 * Only R and Rmd code will be provided
 * I'll open the R code after publishing the paper
 * [Ongoing] 2021. 06 -
-* Example of the analysis results
+* The preview of the analysis results
 
 <p align="center"> 
   <img src = "./plot_example/Example1.jpeg">
